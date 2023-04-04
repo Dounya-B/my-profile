@@ -96,7 +96,7 @@ p {
 }
 .btn-blue:hover{
 	background-color:black;
-	color: white
+	color: white;
 }
 .btn-blue1 {
 	background-color: rgb(242, 228, 192);
@@ -107,7 +107,7 @@ p {
 
 .btn-blue1:hover{
 	background-color:black;
-	color: white
+	color: white;
 }
 
 .list-inline{
